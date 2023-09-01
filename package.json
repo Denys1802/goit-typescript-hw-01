@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/Denys1802/goit-typescript-hw-01/issues"
   },
-  "homepage": "https://github.com/Denys1802/goit-typescript-hw-01#readme",
+  "homepage": "https://denys1802.github.io/goit-typescript-hw-01/",
   "devDependencies": {
     "@web/dev-server": "^0.3.1"
   }
